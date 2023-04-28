@@ -34,10 +34,19 @@ This is a web based application developed for health related telugu based websit
 ![image](https://user-images.githubusercontent.com/123230403/235203941-f94ee8f6-6218-400a-a849-e656e9d637e9.png)
 
 
-### Privacy policy -
+### Services -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![image](https://user-images.githubusercontent.com/123230403/235204637-3c59e42d-533f-4735-8923-49639776ff36.png)
+
+
+### Contact us -
+
+![image](https://user-images.githubusercontent.com/123230403/235205117-aed68df5-028b-4883-8874-6ec331316ac9.png)
+
+### Health bot -
+
+![image](https://user-images.githubusercontent.com/123230403/235205717-cdd03939-0b09-4db7-be7c-3320cca5dd70.png)
 
 
 
