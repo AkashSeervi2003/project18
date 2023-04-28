@@ -31,7 +31,7 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![image](https://user-images.githubusercontent.com/123230403/235203941-f94ee8f6-6218-400a-a849-e656e9d637e9.png)
 
 
 ### Privacy policy -
